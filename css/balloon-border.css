@@ -1,0 +1,9 @@
+.balloon-border {
+    position:absolute;
+    left:25%;
+    top:5%;
+    margin-left: -119px;
+    opacity: 1;
+    animation: balloon-moving 10s;
+    animation-delay: 0s;
+}
